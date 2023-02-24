@@ -7,3 +7,7 @@ On this project I used HTML to develope a website and tested my self on
 * Indention and Spacing of HTML and CSS.
 * Custom made stylesheet
 * Project is deployed to GitHub Pages
+
+## LINK
+
+[Week1_project](https://github.com/ckgathari/week1_project)
