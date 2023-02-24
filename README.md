@@ -10,7 +10,7 @@ On this project I used HTML to develope a website and tested my self on
 
 ## LINK
 
-[Week1_project](https://github.com/ckgathari/week1_project)
+[Week1_project](https://ckgathari.github.io/week1_project/)
 
 ## MIT License
 
